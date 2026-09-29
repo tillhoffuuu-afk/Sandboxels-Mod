@@ -1,3 +1,6 @@
+alert("TEST: Die Mod wird ausgeführt!");
+console.log("TEST: Die Mod wird ausgeführt!");
+
 (() => {
     "use strict";
 
